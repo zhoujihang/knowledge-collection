@@ -20,7 +20,9 @@
 * [Glow 技术团队博客](http://tech.glowing.com/cn/)
 * [SwiftGG翻译组](git@github.com:zhoujihang/knowledge-collection.git)
 
-
+###了解新技术
+* [掘金](http://gold.xitu.io/)
+* [干货集中营](http://gank.io/)
 
 ###工具
 * [jsontool](http://www.runoob.com/jsontool)
