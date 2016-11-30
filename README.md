@@ -5,6 +5,7 @@
 ###文档
 * [Swift苹果文档](https://developer.apple.com/swift/resources/)
 * [api-design-guidelines](https://swift.org/documentation/api-design-guidelines/)
+* [SwiftDoc.org](http://swiftdoc.org/v3.0/)
 
 ###Git
 * [awesome-swift](https://github.com/matteocrippa/awesome-swift)
