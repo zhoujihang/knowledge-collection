@@ -24,6 +24,11 @@
 * [Glow 技术团队博客](http://tech.glowing.com/cn/)
 * [SwiftGG翻译组](http://swift.gg/)
 * [李忠的博客-蘑菇街](http://limboy.me/)
+* [WeRead团队博客](http://wereadteam.github.io/archives/)
+
+###微信号
+* 腾讯Bugly
+
 
 ###了解新技术
 * [掘金](http://gold.xitu.io/)
