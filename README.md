@@ -10,6 +10,8 @@
 ###Git
 * [awesome-swift](https://github.com/matteocrippa/awesome-swift)
 * [iOS开发常用三方库、插件、知名博客等等](https://github.com/Tim9Liu9/TimLiu-iOS)
+* [SwiftGuide](https://github.com/ipader/SwiftGuide)
+* [TimLiu-iOS](https://github.com/Tim9Liu9/TimLiu-iOS)
 
 ###单篇
 * [Swift 常用开源项目说明](http://www.jianshu.com/p/e3bca6989374)
@@ -25,7 +27,7 @@
 * [SwiftGG翻译组](http://swift.gg/)
 * [李忠的博客-蘑菇街](http://limboy.me/)
 * [WeRead团队博客](http://wereadteam.github.io/archives/)
-* [更多...?](https://github.com/Tim9Liu9/TimLiu-iOS#%E5%BC%80%E5%8F%91%E5%8D%9A%E5%AE%A2%E5%88%97%E8%A1%A8)
+
 
 ###微信号
 * 腾讯Bugly
