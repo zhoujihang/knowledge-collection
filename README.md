@@ -9,7 +9,6 @@
 
 ###Git
 * [awesome-swift](https://github.com/matteocrippa/awesome-swift)
-* [iOS开发常用三方库、插件、知名博客等等](https://github.com/Tim9Liu9/TimLiu-iOS)
 * [SwiftGuide](https://github.com/ipader/SwiftGuide)
 * [TimLiu-iOS](https://github.com/Tim9Liu9/TimLiu-iOS)
 
